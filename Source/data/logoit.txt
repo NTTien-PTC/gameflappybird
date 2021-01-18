@@ -1,0 +1,25 @@
+                                        
+ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD 
+ D      DDCCCCCCCCCCCCCCCCCCCCCCD     D 
+ D        DDCCCCCCCCCCCCCCCCCCCD      D 
+ D          DCBBBBBBBBBBBCCCCCD       D 
+ D        BBBBBCCCCCCCCBBBBBBBD       D 
+ D     BBBBB  DCCCCCCCCCCCCCBBBB      D 
+ D    BB       DCCCCCCCCCCCCCDBBBB    D 
+ D             DCCCCCCCCCCCCD         D 
+ D    BB        DCCCCCCCCCCCDCBBBB    D 
+ D     BBBBB    DCCCCCCCCCCDBBBBB     D 
+ D        BBBBBDCCCCCCCBBBBBBD        D 
+ D            BBBBBBBBBBBBD           D 
+ D          DCCCCCCCCCCCCD            D 
+ D        DDCCCCCCCCCCCCCD            D 
+ D      DDCCCCCCCCCCCCCCD             D 
+ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD 
+ D                                    D 
+ D  D DDD  DD  D   DD D  D D  DDD D D D 
+ D  D  D   D  D D D   D  D D   D  D D D 
+ D  D  D   DD DDD D   D  D D   D   D  D 
+ D  D  D   D  D D  DD  DD  DDD D   D  D 
+ D                                    D 
+ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD 
+                                        
